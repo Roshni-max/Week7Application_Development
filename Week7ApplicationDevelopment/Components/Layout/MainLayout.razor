@@ -1,31 +1,16 @@
 ﻿@inherits LayoutComponentBase
-@inject NavigationManager Nav
 
-<div class="page">
+<div class="page" style="display:flex; min-height:100vh;">
 
-    <!-- Navigation Area -->
-    <div class="sidebar" style="padding: 20px; background:#f5f5f5;">
+    <div class="sidebar" style="width:220px; padding:20px; background:#f5f5f5;">
+        <h3>Navigation</h3>
 
-        <h2>Navigation</h2>
-
-        <button @onclick="() => Nav.NavigateTo(git init" intro")">
-            Intro Page
-        </button>
-        <br /><br />
-
-        <button @onclick="() => Nav.NavigateTo(" profile")">
-            Profile Page
-        </button>
-        <br /><br />
-
-        <button @onclick="() => Nav.NavigateTo(" monkeys")">
-            Monkey Page
-        </button>
-
+        <NavLink href="/" Match="NavLinkMatch.All">Intro Page</NavLink><br />
+        <NavLink href="/profile">Profile Page</NavLink><br />
+        <NavLink href="/monkeys">Monkey Page</NavLink>
     </div>
 
-    <!-- Main content area -->
-    <div class="main" style="padding:20px;">
+    <div class="main" style="flex:1; padding:20px;">
         @Body
     </div>
 

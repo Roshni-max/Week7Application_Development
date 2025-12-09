@@ -1,8 +1,15 @@
-﻿<Router AppAssembly="@typeof(App).Assembly">
+﻿@using Week7ApplicationDevelopment.Components.Layout
+
+
+<Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
-        <RouteView RouteData="@routeData" />
+        <RouteView RouteData="@routeData"
+                   DefaultLayout="@typeof(MainLayout)" />
     </Found>
+
     <NotFound>
-        <h1>Page Not Found</h1>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <h1>Page Not Found</h1>
+        </LayoutView>
     </NotFound>
 </Router>
