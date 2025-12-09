@@ -1,0 +1,15 @@
+﻿@page "/profile"
+<h3>Student Profile</h3>
+    <img src = "/images/student.png" width=" =400"/>
+    
+    <p><strong>Name:</strong> @studentName</p>
+    <p><strong>Course:</strong> @courseName</p>
+    <p><strong>Batch:</strong> @batchYear</p>
+
+@code {
+    // static values as variables
+    string photoPath = "/images/student.png";
+    string studentName = "Roshni Jha";
+    string courseName = ".NET MAUI Hybrid Training";
+    string batchYear = "2025";
+}

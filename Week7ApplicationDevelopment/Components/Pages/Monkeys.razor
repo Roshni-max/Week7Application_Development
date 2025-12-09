@@ -1,0 +1,51 @@
+﻿@page "/monkeys"
+
+<h1>Monkey Gallery</h1>
+
+@if (monkeys == null || monkeys.Count == 0)
+{
+    <p>No monkeys found</p>
+}
+else
+{
+    <div style="display:flex; flex-wrap:wrap; gap:16px;">
+        @foreach (var m in monkeys)
+        {
+            <div style="width:260px; border:1px solid #ddd; border-radius:8px; padding:12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05);">
+                <img src="@m.Image" alt="@m.Name" style="width:100%; height:160px; object-fit:cover; border-radius:6px;" />
+                <h3 style="margin:8px 0 4px 0;">@m.Name</h3>
+                <p style="margin:0; color:#555;"><strong>Location:</strong> @m.Location</p>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    // simple model type inside component
+    public class Monkey
+    {
+        public string Name { get; set; }
+        public string Location { get; set; }
+        public string Image { get; set; }
+    }
+
+    // initialize the list
+    List<Monkey> monkeys = new List<Monkey>
+    {
+        new Monkey {
+            Name = "Baboon",
+            Location = "Africa & Asia",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+        },
+        new Monkey {
+            Name = "Capuchin Monkey",
+            Location = "Central & South America",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg"
+        },
+        new Monkey {
+            Name = "Blue Monkey",
+            Location = "Central and East Africa",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg"
+        }
+    };
+}

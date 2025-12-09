@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\pages\\monkeys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\pages\\monkeys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\pages\\intro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\pages\\intro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|c:\\users\\user\\source\\repos\\week7applicationdevelopment\\week7applicationdevelopment\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C7A151C-36B1-0C10-D33E-0C542A8E7B76}|Week7ApplicationDevelopment\\Week7ApplicationDevelopment.csproj|solutionrelative:week7applicationdevelopment\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\.gitignore",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\.gitignore",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\.gitignore",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-09T05:33:15.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:14:29.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monkeys.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Monkeys.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Pages\\Monkeys.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Monkeys.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Pages\\Monkeys.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T03:59:33.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Pages\\Profile.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Profile.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T03:46:29.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Intro.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Intro.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Pages\\Intro.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Intro.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Pages\\Intro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T03:40:09.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T03:14:05.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:07:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:34:02.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Week7ApplicationDevelopment\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Week7ApplicationDevelopment\\Week7ApplicationDevelopment\\Components\\Routes.razor",
+              "RelativeToolTip": "Week7ApplicationDevelopment\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T04:04:47.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
